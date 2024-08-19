@@ -1,0 +1,12 @@
+{
+  "name": "your-flutter-project",
+  "version": "1.0.0",
+  "description": "A Flutter project exported from FlutterFlow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    // Add your Node.js dependencies here
+  }
+}
